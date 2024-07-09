@@ -116,6 +116,9 @@ gcloud run services describe hello-world --region us-central1 --format "value(st
 
 ```
 
+- You can also check if the project is running by visiting: https://hello-world-dtn65ykysq-uc.a.run.app/
+
+
 ## **Notes**
 - Ensure the YOUR_PROJECT_ID placeholder is replaced with your actual GCP project ID.
 - This deployment makes the Cloud Run service publicly accessible.
