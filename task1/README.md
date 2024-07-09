@@ -115,7 +115,6 @@ terraform apply
 gcloud run services describe hello-world --region us-central1 --format "value(status.url)"
 
 ```
-
 - You can also check if the project is running by visiting: https://hello-world-dtn65ykysq-uc.a.run.app/
 
 
